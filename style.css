@@ -50,7 +50,7 @@ color: #86898f;
 }
 
 
-@media (max-width: 1090px) {
+@media (max-width: 700px) {
     .info {
         text-align: center;
     display: block;
